@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hash_password.iml" filepath="$PROJECT_DIR$/hash_password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/hash_password_android.iml" filepath="$PROJECT_DIR$/android/hash_password_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/hash_password_example_android.iml" filepath="$PROJECT_DIR$/example/android/hash_password_example_android.iml" />
+    </modules>
+  </component>
+</project>
