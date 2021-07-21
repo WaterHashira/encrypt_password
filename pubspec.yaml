@@ -1,8 +1,7 @@
 name: hash_password
 description: A new Flutter plugin.
 version: 0.0.1
-author: Lakshay Chaudhary
-homepage:
+homepage: https://github.com/WaterHashira/encrypt_password
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
